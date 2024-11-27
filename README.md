@@ -33,7 +33,7 @@ Heap at each transformation step (e.g., Max-Heap → Min-Heap → Heapified Spel
 
 A sorted view of the spells for clarity.
 
-Sample Input/Output
+Sample Input/Output:
 
 Welcome to the Wizard's Spellbook Heap Adventure!
 How many spells do you want to add to your spellbook? 5
